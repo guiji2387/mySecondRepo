@@ -1,4 +1,4 @@
 # My Second repo
-  my second repo
+  my seecond repo
   by Guiji2387
   
